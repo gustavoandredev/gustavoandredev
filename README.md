@@ -16,7 +16,7 @@
     <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
-<h3 style="margin-bottom: -10px;">Analise de Dados e Back End</h3>
+<h3>Analise de Dados e Back End</h3>
 
 <div style="display: inline_block;"><br/>
     <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
