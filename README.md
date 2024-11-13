@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Gustavo André 😉
 
-
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoandredev&show_icons=true&theme=dracula)
+<div id="dashboard">
+<img src="https://github-readme-stats.vercel.app/api?username=gustavoandredev&show_icons=true&theme=dracula">
 <img height="196cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoandredev&show icons=true&theme=dracula">
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
