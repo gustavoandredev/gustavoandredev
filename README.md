@@ -2,7 +2,7 @@
 
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoandredev&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoandredev&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img height="196cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoandredev&show icons=true&theme=dracula">
 
 ## Tecnologias que eu uso no meu dia
 
@@ -27,7 +27,7 @@
 <h3 style="margin-bottom: -10px;">Sistemas e Versionamento</h3>
 
 <div style="display: inline_block;"><br/>
-    <img alt="linux" src="    https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img alt="bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
     <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
